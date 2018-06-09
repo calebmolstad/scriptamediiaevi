@@ -2,7 +2,7 @@
 
 ## Texts
 
-[*Sir Orfeo*]{{ site.baseurl }}{% link /sir-orfeo %}(https://calebmolstad.github.io/scriptamediiaevi/sir-orfeo)  
+[*Sir Orfeo*]({{ site.baseurl }}{% link /sir-orfeo %})
 [*Long Charter Version A*](https://calebmolstad.github.io/scriptamediiaevi/long-charter-a)
 
 ### Purpose
