@@ -1,5 +1,6 @@
-# Texts
+# Scripta Medii Aevi
 
+## Texts
 [*Sir Orfeo*](https://calebmolstad.github.io/scriptamediiaevi/sir-orfeo)  
 [*Long Charter Version A*](https://calebmolstad.github.io/scriptamediiaevi/long-charter-a)
 
