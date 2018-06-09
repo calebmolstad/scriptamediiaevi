@@ -1,5 +1,5 @@
 # Long Charter A-Text
-## From Manuscript Rawl Poet 175
+### From Manuscript Rawl Poet 175
 *Ihesus est amor meus*  
 
 Ihesu kyng of heuen & hell  
