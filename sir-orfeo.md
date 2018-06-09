@@ -1,4 +1,3 @@
-# *Sir Orfeo*
 Adapted from [Sir Orfeo: ein englisches Feenmärchen aus dem Mittelalter, mit Einleitung by Oscar Zielke](https://archive.org/details/sirorfeoeinengl00zielgoog)
 
 We redyn ofte and fynde ywryte,  
