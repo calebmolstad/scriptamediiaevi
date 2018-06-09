@@ -2,8 +2,8 @@
 
 ## Texts
 
-[*Sir Orfeo*](.../sir-orfeo)  
-[*Long Charter Version A*](.../long-charter-a)
+[*Sir Orfeo*](../sir-orfeo)  
+[*Long Charter Version A*](../long-charter-a)
 
 ### Purpose
 While it is fairly easy to find a plain text copy of core medieval texts online, e.g. *Beowulf*, *The Canterbury Tales*, "second" and "third" tier texts are more difficult to find. At the same time, an increasing number of old critical editions of medieval texts are entering the public domain. Below is a miscellaneous collection of medieval text that I have transcribed from public domain books.
