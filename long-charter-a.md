@@ -1,4 +1,4 @@
-# Long Charter A-Text
+# Long Charter A
 ### From Manuscript Rawl Poet 175
 *Ihesus est amor meus*  
 
