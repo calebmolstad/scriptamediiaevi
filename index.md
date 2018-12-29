@@ -1,6 +1,7 @@
-# Scripta Medii Aevi
-
 ## Texts
+
+### Old English
+[*Christ*](https://calebmolstad.github.io/scriptamediiaevi/christ)  
 
 ### Middle English
 [*Sir Orfeo*](https://calebmolstad.github.io/scriptamediiaevi/sir-orfeo)  
