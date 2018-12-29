@@ -1,5 +1,5 @@
 # Christ I, II, III  
-## Christ I (#christ-i)  
+## [Christ I](#christ-i)  
 cyninge.  
 ðu eart se weallstan         þe ða wyrhtan iu  
 wiðwurpon to weorce.         Wel þe geriseð  
@@ -527,7 +527,7 @@ in lifgendra         londes wynne,
 þær he gesælig         siþþan eardað,  
 ealne widan feorh         wunað butan ende. Amen.  
 
-## Christ II (#christ-ii)  
+## [Christ II](#christ-ii)  
 440  
 Nu ðu geornlice         gæstgerynum,  
 mon se mæra,         modcræfte sec  
@@ -1042,7 +1042,7 @@ Utan us to þære hyðe         hyht staþelian,
 ða us gerymde         rodera waldend,  
 halge on heahþu,         þa he heofonum astag.  
 
-## Christ III (#christ-iii)  
+## [Christ III](#christ-iii)  
 ðonne mid fere         foldbuende  
 se micla dæg         meahtan dryhtnes  
 æt midre niht         mægne bihlæmeð,  
