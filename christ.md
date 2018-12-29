@@ -1,5 +1,5 @@
 # Christ I, II, III  
-## Christ I(#christ-i)
+## [Christ I](#christ-i)
 cyninge.  
 ðu eart se weallstan         þe ða wyrhtan iu  
 wiðwurpon to weorce.         Wel þe geriseð  
