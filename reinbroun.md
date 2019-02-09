@@ -113,7 +113,7 @@ For helpe me at nede.
 Wel ȝe witer ȝe han herd telle  
 Axe 3our eldren sede,?  
 pat þe king of Denemark  
-pour; @ geaunt stor & stark  
+pour; geaunt stor & stark  
 Ralaungep al oure pede.  
 A gret os he haþ y-nome  
 & ȝif he may vs ouercome  
