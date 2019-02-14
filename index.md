@@ -8,7 +8,7 @@
 [*Long Charter Version A*](https://calebmolstad.github.io/scriptamediiaevi/long-charter-a)
 
 ### Latin
-[Hermann of Laon's Account of Belief in Arthur](https://calebmolstad.github.io/scriptamediiaevi/hermann-of-laon.md)
+[Hermann of Laon's Account of Belief in Arthur](https://calebmolstad.github.io/scriptamediiaevi/hermann-of-laon.md)  
 [*Scala Claustralium*](https://calebmolstad.github.io/scriptamediiaevi/scala-claustralium)
 
 
