@@ -1,4 +1,5 @@
-# Scala Claustralium
+layout: page
+title: "*Scala Claustralium*"
 
 For more information visit the project page: [https://github.com/calebmolstad/scala-claustralium](https://github.com/calebmolstad/scala-claustralium).
 
